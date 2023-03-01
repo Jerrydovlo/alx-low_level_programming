@@ -1,1 +1,1 @@
-0x05. C - Pointers, arrays and strings
+this is my array project
